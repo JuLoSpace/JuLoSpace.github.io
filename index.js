@@ -17,6 +17,8 @@ app.set('views', 'views')
 
 app.use(todosRoutes)
 
+app.use(express.static('static'))
+
 
 async function start() {
     try {
