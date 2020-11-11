@@ -1,0 +1,8 @@
+{
+  "name": "simplyprogger-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SimplyProgger/SimplyProgger-Website",
+  "author": "SimplyProgger <clashofclansgamerarmoo@gmail.com>",
+  "license": "MIT"
+}
