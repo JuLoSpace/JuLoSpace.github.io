@@ -13,4 +13,10 @@ router.get('/projects', (req, res) => {
     })
 })
 
+router.get('/ev3models', (req, res) => {
+    res.render('ev3models', {
+        title: 'Проекты'
+    })
+})
+
 module.exports = router
